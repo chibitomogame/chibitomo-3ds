@@ -1,9 +1,8 @@
 # Chibitomo for 3DS
 
 A free, single-player Chibitomo for 3DS family systems, made as homebrew.
-Wake up in Roothollow with a chibitomo of your own, catch and raise a team,
-take on the five gyms and win back what was stolen. Everything happens on the
-console: no account, no internet.
+Wake up in Roothollow with a chibitomo of your own, and collect all 270+ chibitomo from the main game.
+No account or internet is required to play on 3DS.
 
 <p align="center">
   <img src="install-qr.svg" width="220" alt="QR code that installs the latest chibitomo.cia with FBI" />
