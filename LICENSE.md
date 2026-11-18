@@ -18,9 +18,6 @@ it, you agree to these terms.
 ## You may not
 
 - Sell the game, charge for it or bundle it with anything you sell.
-- Modify it or share modified copies.
-- Decompile it or take it apart, except as far as the law where you live
-  allows.
 - Take its creatures, art, music, characters, story or text out of it to use
   anywhere else.
 - Use the Chibitomo name, logo or characters, except to talk about the game.
